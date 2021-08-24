@@ -8,9 +8,9 @@ Modifica el programa que se encuentra en la carpeta `src` que se llama
 
 def main():
     # Escribe el código adecuado para completar el programa
-    x = int(input("Ingresa el primer número: "))
-    y = int(input("Ingresa el segundo número: "))
-    z = int(input("Ingresa el tercer número: "))
+    num1 = int(input("Ingresa el primer número: "))
+    num2 = int(input("Ingresa el segundo número: "))
+    num3 = int(input("Ingresa el tercer número: "))
 
 
 if __name__ == '__main__':
